@@ -26,4 +26,26 @@ for i in items:
         print(f'alias: {alias.text.strip()}')
     except:
         pass
+
+    try:
+        rec = i.find('span', class_='status__box__heading')
+        print(f'Recyclable? {rec.text.strip()}')
+    except:
+        pass
+
+    try:
+        adv = i.find('div', class_='status__box__content')
+        print(f'Advice: {adv.text.strip()}')
+    except:
+        pass
+
+    try:
+        tips = i.find_all('li')
+        for t in tips:
+            if t.text.strip() == 'collected by REDcycle.':
+                break
+            if t:
+                print(f'tips: {t.text.strip()}')
+    except:
+        pass
     print('=====================================================================')
