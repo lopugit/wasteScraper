@@ -1,0 +1,1247 @@
+﻿{
+  "Soft plastic": {
+    "Adhesive strips": {
+      "alias": "Band-Aids, sticky plaster, bandaid, Elastoplast",
+      "recyclable": "No",
+      "advice": "Put adhesive strips in your rubbish bin.",
+      "tips": []
+    },
+    "Australia Post satchels (plastic)": {
+      "alias": "post packs, express post satchel, parcel post satchel",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "it should be empty and dry.",
+        "remove any paper inserts."
+      ]
+    },
+    "Balloons": {
+      "recyclable": "No",
+      "advice": "Put balloons in your rubbish bin.",
+      "tips": []
+    },
+    "Bread bags": {
+      "alias": "bread packaging",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "empty any remaining bread. Find out ways to use up food scraps.",
+        "remove the bread tag. Find out how to dispose of bread tags."
+      ]
+    },
+    "Bubble wrap": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "cut them into A3 size to make sure they fit. Large pieces of bubble wrap are too bulky to be placed in soft plastic bins at supermarkets.",
+        "ensure the bubble wrap is dry."
+      ]
+    },
+    "Cellophane": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": []
+    },
+    "Cereal box inserts": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": []
+    },
+    "Chip packets": {
+      "alias": "crisp packets",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "empty any remaining chips.",
+        "ensure chip packets are dry."
+      ]
+    },
+    "Cling wrap": {
+      "alias": "Cling film, gladwrap, saran wrap, plastic film wrap",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nOnly Glad brand and Coles and Woolworths Essentials homebrand cling wrap is accepted at REDcycle soft plastics drop-off points at participating supermarkets.",
+      "tips": [
+        "use reusable glass and plastic containers.",
+        "cover food with a plate.",
+        "use reusable beeswax, soy or silicon wraps.",
+        "cover with foil which can be recycled. Find out how to dispose of aluminium foil."
+      ]
+    },
+    "Disposable nappies": {
+      "alias": "Diapers",
+      "recyclable": "No",
+      "advice": "Put disposable nappies in your rubbish bin.Update: If you or someone in your household has coronavirus (COVID-19), put the item in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items have mixed with affected item, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Food pouches": {
+      "alias": "squeeze pouches, yoghurt pouches, baby food pouches",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "empty any remaining food.",
+        "put the lid on again.",
+        "you do not need to remove the hard plastic tube."
+      ]
+    },
+    "Frozen food bags": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "remove any remaining food.",
+        "ensure frozen food bags are dry."
+      ]
+    },
+    "Lolly wrappers": {
+      "alias": "chocolate wrappers, sweet wrappers",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "remove any remaining lollies or chocolate.",
+        "ensure lolly wrappers are dry."
+      ]
+    },
+    "Plastic bags": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": []
+    },
+    "Plastic film": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": []
+    },
+    "Plastic sachets": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "remove any contents.",
+        "ensure plastic sachets are dry."
+      ]
+    },
+    "Potting mix bags": {
+      "alias": "mulch bags,",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "empty any remaining potting mix.",
+        "cut them into A3 size to make sure they fit. Large pieces of soft plastic are too bulky to be placed in soft plastic bins at supermarkets"
+      ]
+    },
+    "Reusable shopping bags": {
+      "alias": "green bags",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take it to a REDcycle soft plastics drop-off point at participating supermarkets.",
+      "tips": [
+        "make sure it is empty.",
+        "leave the plastic base inside as it is fully recyclable too."
+      ]
+    }
+  },
+  "Hard plastic": {
+    "Biscuit trays": {
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Blister pack": {
+      "alias": "pill plastic, medicine plastic, medication plastic",
+      "recyclable": "No",
+      "advice": "Put blister packs in your rubbish bin.",
+      "tips": []
+    },
+    "Bottle tops (plastic)": {
+      "alias": "bottle lids, bottle caps",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSee if there are any local plastic bottle top recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Bread tags": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…Aussie Bread Tags for Wheelchairs is a community program where individuals and organisations collect bread tags to be sold to plastics recycling companies.Find out more about Aussie Bread Tags for Wheelchairs.",
+      "tips": []
+    },
+    "Cable ties": {
+      "alias": "zip ties",
+      "recyclable": "No",
+      "advice": "Put cable ties in your rubbish bin.",
+      "tips": []
+    },
+    "Cake trays": {
+      "alias": "plastic tray",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "CD cases": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nSome councils might operate a local recycling program. Check with your local council.",
+      "tips": []
+    },
+    "CDs (not in case)": {
+      "alias": "Compact discs",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…Check if there are any CD recycling programs near you by contacting your local council. If there are none, they go in your rubbish bin.",
+      "tips": []
+    },
+    "Cleaning product bottles": {
+      "alias": "Detergent bottles, spray and wipe",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "Remove any remaining liquid.",
+        "Unwanted household chemicals can be disposed of via the Detox your home program. Visit the Detox your home page to view permanent drop-off sites and upcoming events.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Coat hangers (plastic)": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSee if there are any local plastic coat hanger recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Coffee cup lids": {
+      "recyclable": "No",
+      "advice": "Unless...\nSome councils allow disposable coffee cup lids in your recycling bin. Check with your local council.",
+      "tips": []
+    },
+    "Coffee pods": {
+      "alias": "Coffee capsules",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind a program near you to recycle your old coffee pods by visiting the TerraCycle website or contact your local council.",
+      "tips": []
+    },
+    "Cosmetics": {
+      "alias": "beauty products, makeup, skincare, sunscreen",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind a program near you to recycle your old cosmetics by visiting the TerraCycle website or contact your local council.",
+      "tips": []
+    },
+    "Cutlery (plastic)": {
+      "alias": "Knife, fork, knives, knife and fork, chopsticks",
+      "recyclable": "No",
+      "advice": "Put plastic cutlery in the rubbish bin.Update: If you or someone in your household has coronavirus (COVID-19), put the item in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items have mixed with affected item, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Deodorant sticks": {
+      "alias": "Roll-on",
+      "recyclable": "Yes",
+      "advice": "Unless...Some councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Dinnerware (plastic)": {
+      "alias": "disposable plates, disposable bowls, single-use plates, single-use bowls",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Food containers (plastic)": {
+      "alias": "Single-use plastic containers, take-away food containers",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Food platters (plastic)": {
+      "alias": "Food platter, servingware",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take food platters (plastic) to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "in good condition.",
+        "clean and not stained."
+      ]
+    },
+    "Fruit and vegetable punnets": {
+      "alias": "berry punnets, berry containers, strawberry punnets, blueberry punnets, blackberry punnets",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Hard plastic containers": {
+      "alias": "Ice cream, yoghurt tub, butter, margarine",
+      "recyclable": "Yes",
+      "advice": "Unless...Some councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Meat trays (plastic)": {
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "Remove any remaining meat.",
+        "Remove the absorbency pad.",
+        "Remove any plastic film.",
+        "Lightly rinse the tray.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Milk and juice bottles (plastic)": {
+      "alias": "Milk container",
+      "recyclable": "Yes",
+      "advice": "Unless...Some councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Plant pots (small)": {
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Plastic toys": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nSee if there are any local plastic toy recycling programs by contacting your local council. If there are none, they go in your rubbish bin. Do not put batteries in your rubbish bin. Check how to correctly dispose of batteries.",
+      "tips": []
+    },
+    "Razors (disposable)": {
+      "alias": "disposable razor, razor head, shaver blade, disposable shaver",
+      "recyclable": "No",
+      "advice": "Disposable razors and disposable razor heads go in your rubbish bin.Update: If you or someone in your household has coronavirus (COVID-19), put the item in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items have mixed with affected item, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Reusable plastic containers": {
+      "alias": "Tupperware",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Shampoo and conditioner bottles": {
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Soap pump bottles": {
+      "alias": "hand soap bottle, liquid soap bottle, hand sanitiser bottle, soap pump pack, dispenser",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Soft drink bottles": {
+      "alias": "plastic bottles, water bottles",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Straws (plastic)": {
+      "alias": "Drinking straws",
+      "recyclable": "No",
+      "advice": "Put plastic straws in your rubbish bin.Update: If you or someone in your household has coronavirus (COVID-19), put the item in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items have mixed with affected item, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Takeaway plastic cups": {
+      "alias": "slushie cups, slurpee cups",
+      "recyclable": "Yes",
+      "advice": "Unless...Some councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "Empty any remaining liquid.",
+        "Remove and put straw in the rubbish bin. Learn more about Wildlife-friendly alternatives to plastic straws.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Toothbrushes": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind a program near you to recycle your old toothbrushes by visiting the TerraCycle website or contact your local council.Update: If you or someone in your household has coronavirus (COVID-19), put the item in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items have mixed with affected item, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Toothpaste tubes": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind a program near you to recycle your old toothpaste tubes by visiting the TerraCycle website or contact your local council.",
+      "tips": []
+    },
+    "Vitamin bottles": {
+      "alias": "Pill bottles, plastic bottles",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Yoghurt containers": {
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils only accept hard plastics which are coded with a 1 or 2 in the recycling symbol. Check with your local council.",
+      "tips": [
+        "Empty any remaining yoghurt.",
+        "Remove the foil lid. Find out how to dispose of the aluminium foil lid.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as steel and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    }
+  },
+  "Polystyrene and foam": {
+    "Foam boxes": {
+      "alias": "Foam trays",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSee if there are any local foam or polystyrene recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Meat trays (foam)": {
+      "recyclable": "No",
+      "advice": "Put these in your rubbish bin.",
+      "tips": []
+    },
+    "Polystyrene": {
+      "alias": "Styrofoam",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSee if there are any local polystyrene recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    }
+  },
+  "Clothing and textiles": {
+    "Bedding": {
+      "alias": "manchester, quilt covers, pillow cases, linen, textiles, sheets",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take bedding to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "clean and not stained.",
+        "not torn or frayed."
+      ]
+    },
+    "Cleaning cloths": {
+      "alias": "rags, towels,",
+      "recyclable": "No",
+      "advice": "Cleaning clothes go in your rubbish bin.\nUpdate: If you or someone in your household has coronavirus (COVID-19), make sure the used cleaning cloths are inside a plastic or paper bag that is securely closed before being placed in your kerbside rubbish bin. If other recyclable items such as paper and cardboard have mixed with the cleaning cloths, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Clothing": {
+      "alias": "clothes, t-shirts, pants, trousers, jeans, jumpers, underwear, socks, textiles, bags, fabric",
+      "recyclable": "No",
+      "advice": "But you can still recycle them…\nYou can take resaleable clothing to your nearest second-hand store, charity bin or drop-off location.For worn, damaged, and unsaleable clothing, retailers H&M, Zara and Manrags each have garment collection programs for clothing or textiles.",
+      "tips": [
+        "clean and not stained.",
+        "not covered in animal fur.",
+        "not torn or frayed."
+      ]
+    },
+    "Curtains": {
+      "alias": "drapes, blinds",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take curtains to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "clean and not faded.",
+        "not covered in animal fur."
+      ]
+    },
+    "Masks (cloth)": {
+      "alias": "face mask, material mask",
+      "recyclable": "No",
+      "advice": "Cloth face masks that are worn out go in your rubbish bin.\nUpdate: If you or someone in your household has coronavirus (COVID-19), put the masks in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items such as paper and cardboard have mixed with the face masks, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Masks (disposable)": {
+      "alias": "surgical mask, medical mask, face mask",
+      "recyclable": "No",
+      "advice": "Disposable face masks go in your rubbish bin.\nUpdate: If you or someone in your household has coronavirus (COVID-19), put the masks in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items such as paper and cardboard have mixed with the face masks, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Pillows": {
+      "alias": "cushions",
+      "recyclable": "No",
+      "advice": "Pillows go in your rubbish bin.",
+      "tips": []
+    },
+    "Shoes": {
+      "alias": "sneakers, boots, runners, loafers, slippers, sandals",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take shoes to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "in a good condition without any holes.",
+        "clean and not stained."
+      ]
+    }
+  },
+  "Food waste": {
+    "Coffee grounds": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…Some councils collect food waste for composting so coffee grounds can be recycled by putting them in the correct bin. To see if this happens in your local area check with your council. Or you can put them in a home compost, bokashi bin or worm farm. Some councils also offer discounted home compost bins and worm farms. Find out more about how to compost food waste.",
+      "tips": []
+    },
+    "Food scraps": {
+      "alias": "food, kitchen scraps, fruit scraps, vegetable scraps, meat scraps, organics, bones, food waste",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSome councils collect food waste for composting so food scraps can be recycled by putting them in the correct bin. To see if this happens in your local area check with your council. \nOr you can put them in a home compost, bokashi bin or worm farm. Some councils also offer discounted home compost bins and worm farms. Find out more about how to compost food waste.",
+      "tips": []
+    },
+    "Medicines": {
+      "alias": "pills, capsules, tablets, Panadol, Nurofen",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nDispose of medicines for free at your local pharmacy through the Returned Unwanted Medicines Project.",
+      "tips": []
+    },
+    "Tea bags": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nTea leaves can be composted but often the tea bag contains plastic or staples that can’t be composted. Check online to see if your tea brand uses compostable bags. \nSome councils collect food waste for composting so tea leaves can be recycled by putting them in the correct bin. To see if this happens in your local area check with your council. \nOr you can put them in a home compost, bokashi bin or worm farm. Some councils also offer discounted home compost bins and worm farms. Find out more about how to compost food waste.",
+      "tips": [
+        "Remove any plastic labels or metal staples.",
+        "Check if your tea brand uses compostable bags.",
+        "If the bag isn’t compostable, open the bag to empty the leaves into the compost and then dispose of the bag in your rubbish bin."
+      ]
+    }
+  },
+  "Green waste": {
+    "Christmas trees (real)": {
+      "alias": "xmas tree",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nCouncils often have separate collections for real Christmas trees. For local services check with your local council.",
+      "tips": []
+    },
+    "Garden waste": {
+      "alias": "branches, flowers, grass, leaves, prunings, weeds",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nIf you have a garden waste bin, place your grass clippings, small branches, leaves and other garden waste in that bin.",
+      "tips": []
+    }
+  },
+  "Glass": {
+    "Beer bottles": {
+      "alias": "stubby, long neck",
+      "recyclable": "Yes",
+      "advice": "Unless…\nSome councils may have other ways to collect glass bottles to prevent broken glass contaminating other recyclables. Check with your local council.",
+      "tips": [
+        "empty any remaining beer.",
+        "don't include any broken glass. Find out how to dispose of broken glass.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a glass treatment facility and washed, sorted by colour, then crushed and melted.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Broken glass": {
+      "recyclable": "No",
+      "advice": "Broken glass goes in your rubbish bin inside a box or wrapped in newspaper.",
+      "tips": []
+    },
+    "Glass bottles": {
+      "alias": "beer bottles, wine bottles, medicine bottles, cough medicine bottles",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils may also have other ways to collect glass bottles to prevent broken glass contaminating other recyclables. Check with your local council.",
+      "tips": [
+        "empty any remaining liquid or food.",
+        "don’t include any broken glass. Find out how to dispose of broken glass.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a glass treatment facility and washed, sorted by colour, then crushed and melted.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Glassware": {
+      "alias": "wine glass, drinking glass",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take unbroken glassware to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "in good condition.",
+        "not cracked or broken. Find out how to dispose of broken glass."
+      ]
+    },
+    "Jars": {
+      "alias": "jam jars, vegemite jars",
+      "recyclable": "Yes",
+      "advice": "Unless...\nSome councils may also have other ways to collect glass bottles to prevent broken glass contaminating other recyclables. Check with your local council.",
+      "tips": [
+        "empty any remaining food.",
+        "remove metal lid.",
+        "don't include any broken glass. Find out how to dispose of broken glass.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a glass treatment facility and washed, sorted by colour, then crushed and melted.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Mirrors": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take mirrors to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "in good condition.",
+        "not cracked or broken."
+      ]
+    },
+    "Pyrex": {
+      "alias": "kitchenware, cookware, heat-proof glass",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take unbroken Pyrex to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "clean.",
+        "not cracked or broken."
+      ]
+    }
+  },
+  "Metal": {
+    "Aerosol cans": {
+      "alias": "spray cans",
+      "recyclable": "Yes",
+      "tips": [
+        "make sure the aerosol can is completely empty.",
+        "remove the plastic lid.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Aluminium can": {
+      "alias": "Beer cans, drink cans, soft drink cans",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Aluminium foil": {
+      "alias": "Alfoil, silver foil, metal foil, silver paper",
+      "recyclable": "Yes",
+      "tips": [
+        "Make sure the aluminium foil is dry",
+        "Remove food scraps. Tear off any dirty or oily sections that can't be cleaned easily, and put them in your rubbish bin.",
+        "Loosely scrunch the clean and dry foil into a ball, at least the size of a golf ball. Recycling sorting machines can't process very small pieces of foil.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Aluminium trays": {
+      "alias": "Silver trays",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Bottle tops (metal)": {
+      "alias": "Bottle caps",
+      "recyclable": "Yes",
+      "advice": "Unless…\nSome councils don't allow metal bottle tops or lids in your recycling bin. Check with your local council.",
+      "tips": []
+    },
+    "Coat hangers (wire)": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSee if there are any local wire coat hanger recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Cutlery (metal)": {
+      "alias": "Knife, fork, knives, forks, knife and fork, spoons, teaspoons, tablespoons, chopsticks",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take metal cutlery to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": []
+    },
+    "Food cans": {
+      "alias": "Canned vegetables, spaghetti tins, pet food cans, tin cans",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Gas bottles": {
+      "alias": "Gas canisters",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…To find out where you can dispose of gas bottles please contact your local council.",
+      "tips": []
+    },
+    "Paint tins (metal, empty)": {
+      "alias": "Paint cans, Metal paint cans",
+      "recyclable": "Yes",
+      "tips": [
+        "Remove any remaining paint.",
+        "Household paint can be disposed of for free at a permanent drop-off site or contact your local council.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Pots and pans": {
+      "alias": "Saucepans, frypans, frying pans, skillets",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take pots and pans to your nearest second-hand store, charity bin or drop-off location.\nAlso, some councils accept steel pots and pans to go in the recycling bin. To find out, contact your local council.",
+      "tips": [
+        "in good condition.",
+        "clean and not heavily scratched."
+      ]
+    },
+    "Scrap metal": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind a facility that will accept scrap metal such as a local recycling centre by contacting your local council.",
+      "tips": []
+    },
+    "Staples": {
+      "recyclable": "No",
+      "advice": "Put staples in your rubbish bin.",
+      "tips": []
+    },
+    "Steel cans": {
+      "alias": "tin cans, tuna cans",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and cardboard.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    }
+  },
+  "Electronics (e-waste)": {
+    "Batteries": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Car batteries": {
+      "alias": "car battery",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "CD players": {
+      "alias": "compact disc player",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Computers": {
+      "alias": "computer parts, monitors, screens",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "DVD players": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Electric toothbrushes": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Electrical appliances": {
+      "alias": "electronics, ewaste, e-waste",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Floppy disks": {
+      "alias": "hard disks",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Fluorescent light tubes": {
+      "alias": "fluro lights",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Fridges": {
+      "alias": "refrigerator",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Light bulbs": {
+      "alias": "light tubes, light globes",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Mobile phones": {
+      "alias": "iPhone, Galaxy, cellphone",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Printer cartridges (ink or toner)": {
+      "alias": "Ink cartridge, printer cartridge",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Smoke alarms (domestic)": {
+      "alias": "smoke detectors",
+      "recyclable": "No",
+      "advice": "Put smoke alarms (domestic) in your rubbish bin after you have removed the batteries. You can recycle batteries at your nearest e-waste drop-off point.",
+      "tips": []
+    },
+    "Televisions": {
+      "alias": "TVs",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…Find your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    },
+    "Whitegoods": {
+      "alias": "washing machines, dryers, air-conditioners, ovens, stoves",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind your nearest e-waste drop-off point or contact your local council.",
+      "tips": []
+    }
+  },
+  "Paper and cardboard": {
+    "Baking paper": {
+      "alias": "wax paper, greaseproof paper",
+      "recyclable": "Yes",
+      "advice": "Unless…\nthe paper has a waxy or plastic coating. If the paper is coated – like deli wrappers, waxed paper and greaseproof paper – it needs to go in your rubbish bin.",
+      "tips": []
+    },
+    "Books": {
+      "recyclable": "Yes",
+      "advice": "Unless…\nBooks that are still in good condition can be taken to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Cardboard boxes": {
+      "alias": "Cereal boxes",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Cardboard boxes (waxed)": {
+      "recyclable": "No",
+      "advice": "Put these in your rubbish bin.",
+      "tips": []
+    },
+    "Disposable coffee cups": {
+      "alias": "Single-use coffee cup",
+      "recyclable": "No",
+      "advice": "But you can still recycle them...\nSome 7-Eleven will take your empty disposable coffee cups and lids. Find a disposable coffee cup recycling point near you. The cups and lids will be collected by Simply Cups, who will take them to a special facility that can process them for turning into new products.\nIf this isn't an option for you, put them in the bin.",
+      "tips": []
+    },
+    "Egg cartons": {
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Envelopes (with or without windows)": {
+      "alias": "Junk mail",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Food containers (cardboard)": {
+      "alias": "Take-away food containers",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Juice cartons (cardboard only)": {
+      "alias": "Juice box",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Long-life cartons": {
+      "alias": "Tetra Pak, juice cartons, milk cartons, UHT",
+      "recyclable": "No",
+      "advice": "Unless...\nA few councils do accept long-life cartons in the recycling bin. Check with your local council.",
+      "tips": []
+    },
+    "Magazines": {
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Milk cartons (cardboard only)": {
+      "recyclable": "Yes",
+      "advice": "Unless…\nSome councils don't allow milk cartons (cardboard only) in your recycling bin. Check with your local council.",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Newspapers": {
+      "recyclable": "Yes",
+      "tips": [
+        "Remove protective plastic wrapping.",
+        "The newspaper should be dry.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Paper (printer)": {
+      "alias": "Copy paper, plain paper, Reflex",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Paper (waxed)": {
+      "recyclable": "No",
+      "advice": "Put this in your rubbish bin.",
+      "tips": []
+    },
+    "Paper towel (used)": {
+      "recyclable": "No",
+      "advice": "Put paper towel in your rubbish bin.\nUpdate: If you or someone in your household has coronavirus (COVID-19), make sure the used paper towel is inside a plastic or paper bag that is securely closed before being placed in your kerbside rubbish bin. If other recyclable items such as paper and cardboard have mixed with the paper towel, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Paper towel roll (inner)": {
+      "alias": "Toilet rolls",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Phonebooks": {
+      "alias": "Yellow Pages, White Pages, telephone books",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Pizza boxes": {
+      "recyclable": "Yes",
+      "tips": [
+        "Remove any remaining pizza.",
+        "A little grease and baked on cheese is ok.",
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    },
+    "Receipts": {
+      "alias": "parking tickets, retail receipts, EFTPOS receipts, retail receipts, shopper dockets",
+      "recyclable": "Yes",
+      "advice": "Unless…they are made from thermal paper.Thermal paper is paper that fades over time or goes dark when near a heat source. Examples include some parking tickets, retail receipts and EFTPOS receipts. These need to go in your rubbish bin.",
+      "tips": []
+    },
+    "Tissues (used)": {
+      "alias": "Kleenex",
+      "recyclable": "No",
+      "advice": "Put tissues in your rubbish bin. \nUpdate: If you or someone in your household has coronavirus (COVID-19), make sure the used tissues are inside a plastic or paper bag that is securely closed before being placed in your kerbside rubbish bin. If other recyclable items such as paper and cardboard have mixed with the tissues, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Toilet paper (used)": {
+      "recyclable": "No",
+      "advice": "Any used toilet paper that is not flushed down the toilet should be put in your rubbish bin.",
+      "tips": []
+    },
+    "Wrapping paper": {
+      "alias": "Gift-wrap",
+      "recyclable": "Yes",
+      "tips": [
+        "collected by your local council’s kerbside recycling truck.",
+        "taken to a recycling sorting facility.",
+        "separated from other recyclables, such as plastic and steel.",
+        "taken to a re-processing centre and broken down.",
+        "taken to a manufacturer to be made into new products."
+      ]
+    }
+  },
+  "Crockery and ceramics": {
+    "Crockery": {
+      "alias": "ceramics, porcelain, cups, plates, saucers, bric-a-brac, earthenware, china",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take crockery to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": [
+        "in a good condition.",
+        "clean and not stained."
+      ]
+    }
+  },
+  "Liquids": {
+    "Cooking oils": {
+      "alias": "Vegetable oils, olive oils",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nFind a facility where you can dispose of cooking oil by contacting your local council.",
+      "tips": []
+    },
+    "Household chemicals": {
+      "alias": "Solvents, cleaning liquids",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nHousehold chemicals can be disposed of for free at a Detox your home event or contact your local council.",
+      "tips": []
+    },
+    "Paint": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nHousehold paint can be disposed of for free at a permanent drop-off site or contact your local council.",
+      "tips": []
+    }
+  },
+  "Rubber and cork": {
+    "Corks": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nCheck if there are any cork recycling programs near you by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Tyres (bicycle)": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nCheck if there are any bike tyre recycling programs near you by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Tyres (car)": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nCheck if there are any car tyre recycling programs near you by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    }
+  },
+  "Building and construction": {
+    "Asbestos": {
+      "recyclable": "No",
+      "advice": "What can I do with asbestos?\nThe Environmental Protection Authority Victoria (EPA) controls the disposal of asbestos in households.\nContact the EPA for more information about disposing of asbestos.",
+      "tips": []
+    },
+    "Building materials": {
+      "alias": "plasterboard, plaster, bricks, rubble, sand, doors",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nFind a facility that will accept building materials such as a local recycling facility by contacting your local council.",
+      "tips": []
+    },
+    "Carpet": {
+      "alias": "carpet underlay",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...Find a facility that will accept carpet such as a local recycling facility by contacting your local council.",
+      "tips": []
+    },
+    "Fencing": {
+      "alias": "fence paling",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nFind a facility that will accept fencing such as a local recycling facility by contacting your local council.",
+      "tips": []
+    },
+    "Tools": {
+      "alias": "hammer, screwdriver",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nFind a facility that will accept tools such as a local recycling facility by contacting your local council.",
+      "tips": []
+    },
+    "Window glass": {
+      "alias": "plate glass, flat glass, sheet glass",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nFind a facility that will accept window glass such as a local recycling facility by contacting your local council.",
+      "tips": []
+    }
+  },
+  "Wood and timber": {
+    "Picture frames": {
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nYou can take picture frames to your nearest second-hand store, charity bin or drop-off location.",
+      "tips": []
+    }
+  },
+  "Other": {
+    "Cookware (silicone)": {
+      "alias": "silicone utensils, silicone kitchen utensils",
+      "recyclable": "No",
+      "advice": "See if there are any local silicone recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Cotton pads": {
+      "alias": "cotton wool, cotton balls",
+      "recyclable": "No",
+      "advice": "Used and unused cotton pads (as well as used make-up pads, cotton wool and cotton buds) go in your rubbish bin.",
+      "tips": []
+    },
+    "Cotton wool": {
+      "alias": "cotton balls, cotton pads",
+      "recyclable": "No",
+      "advice": "Used and unused cotton wool (as well as used cotton pads, make-up pads and cotton buds) go in your rubbish bin.",
+      "tips": []
+    },
+    "Dummies (silicone)": {
+      "alias": "pacifiers",
+      "recyclable": "No",
+      "advice": "See if there are any local silicone recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Gloves (disposable)": {
+      "alias": "rubber gloves, latex gloves, silicone gloves, disposable gloves",
+      "recyclable": "No",
+      "advice": "Rubber, latex and silicone gloves go in your rubbish bin.\nUpdate: If you or someone in your household has coronavirus (COVID-19), put the gloves in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items such as tissues, masks, paper and cardboard have mixed with the gloves, they should also be placed in the rubbish bin.",
+      "tips": []
+    },
+    "Menstrual cups (silicone)": {
+      "recyclable": "No",
+      "advice": "See if there are any local silicone recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "Pet droppings": {
+      "alias": "dog poo, kitty litter, cat litter",
+      "recyclable": "No",
+      "advice": "Put pet droppings in your rubbish bin.",
+      "tips": []
+    },
+    "Silicone": {
+      "recyclable": "No",
+      "advice": "See if there are any local silicone recycling programs by contacting your local council. If there are none, it goes in your rubbish bin.",
+      "tips": []
+    },
+    "VHS tapes": {
+      "alias": "video tapes",
+      "recyclable": "No",
+      "advice": "But you can still recycle it...\nSome councils collect VHS tapes for recycling at special drop-off points. For information contact your local council.",
+      "tips": []
+    },
+    "Wet wipes (used)": {
+      "alias": "baby wipes, antiseptic wipes, make-up removal wipes, window cleaning wipes, household cleaning wipes",
+      "recyclable": "No",
+      "advice": "Put wet wipes in your rubbish bin. Update: If you or someone in your household has coronavirus (COVID-19), put the wet wipes in a sealed plastic or paper bag and place in your rubbish bin. If other recyclable items such as paper and cardboard have mixed with the wet wipes, you should place these in the rubbish bin also.",
+      "tips": []
+    },
+    "X-rays": {
+      "alias": "xrays",
+      "recyclable": "No",
+      "advice": "But you can still recycle it…\nSee if there are any local x-ray recycling programs by contacting your local council. You can also find information about recycling x-rays by visiting Recycling Near You.",
+      "tips": []
+    }
+  }
+}

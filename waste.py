@@ -1,51 +1,69 @@
 import requests
 from bs4 import BeautifulSoup
+import json
 
 URL = 'https://www.recycling.vic.gov.au/can-i-recycle-this'
 page = requests.get(URL)
-
 soup = BeautifulSoup(page.content, 'html.parser')
-# print(soup)
 
-results = soup.find(class_='tiles__list')
-# print(results.prettify())
+items = soup.find_all('li', class_='accordion__item')
+data = {}
 
-
-items = results.find_all('div', class_='item__intro')
+#Categories
 for i in items:
-    # print(job_elem.prettify())
-    # print()
-    try:
-        name = i.find('div', class_='item__intro__heading')
-        print(f'name: {name.text.strip()}')
-    except:
-        pass
+    category = i.find('span', class_='accordion__title__text').text.strip()
+    data[category]={}
+    # print(f'category: {category}')
 
-    try:
-        alias = i.find('div', class_='item__intro__subheading')
-        print(f'alias: {alias.text.strip()}')
-    except:
-        pass
+    #Tiles
+    tiles = i.find_all('div', class_='tile')
+    for t in tiles:
+        try:
+            name = t.find('div', class_='item__intro__heading').text.strip()
+            data[category][name]={}
+            # print(f'name: {name}')
+        except:
+            pass
 
-    try:
-        rec = i.find('span', class_='status__box__heading')
-        print(f'Recyclable? {rec.text.strip()}')
-    except:
-        pass
+        try:
+            alias = t.find('div', class_='item__intro__subheading').text.strip()
+            data[category][name]['alias']=alias
+            # print(f'alias: {alias}')
+        except:
+            pass
 
-    try:
-        adv = i.find('div', class_='status__box__content')
-        print(f'Advice: {adv.text.strip()}')
-    except:
-        pass
+        try:
+            rec = t.find('span', class_='status__box__heading').text.strip()
+            data[category][name]['recyclable']=rec
+            # print(f'Recyclable: {rec}')
+        except:
+            pass
 
-    try:
-        tips = i.find_all('li')
-        for t in tips:
-            if t.text.strip() == 'collected by REDcycle.':
-                break
-            if t:
-                print(f'tips: {t.text.strip()}')
-    except:
-        pass
-    print('=====================================================================')
+        try:
+            adv = t.find('div', class_='status__box__content').text.strip()
+            data[category][name]['advice']=adv
+            # print(f'Advice: {adv}')
+        except:
+            pass
+
+        try:
+            data[category][name]['tips'] = []
+            tips = t.find_all('li')
+            for tip in tips:
+                tip = tip.text.strip()
+                if tip == 'collected by REDcycle.':
+                    break
+                if tip:
+                    data[category][name]['tips'].append(tip)
+                    # print(f'tips: {tip}')
+        except:
+            pass
+        # print('=====================================================================')
+
+# print(data)
+with open('data.json', 'w') as outfile:
+    json.dump(data, outfile)
+
+
+# Why can’t _____ go in my recycling bin?
+# Our current recycling sorting facilities aren’t equipped to sort these softer types of plastic and they can get caught in equipment. This slows down the sorting lines and can even stop the equipment for periods of time.
