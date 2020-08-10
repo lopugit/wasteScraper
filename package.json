@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/lopugit/wasteScraper/issues"
   },
-  "homepage": "https://github.com/lopugit/wasteScraper#readme"
+  "homepage": "https://github.com/lopugit/wasteScraper#readme",
+  "dependencies": {
+    "mongodb": "^3.6.0"
+  }
 }
