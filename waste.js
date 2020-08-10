@@ -18,11 +18,9 @@ let pageUrl = 'https://www.recycling.vic.gov.au/can-i-recycle-this';
         itemElem.forEach((item) => {
             let itemJson = {};
             try {
-<<<<<<< HEAD
-=======
+							
                 let tile = item.querySelector('a.tile__link').querySelector('div.tile__content').querySelector('div.tile__heading');
->>>>>>> master
-                itemJson.name = tile.querySelector('span.tile__title').innerText;
+                // itemJson.name = tile.querySelector('span.tile__title').innerText;
                 //itemJson.alias = tile.querySelector('span.tile__subtitle').innerText;
                 
             }
