@@ -1,0 +1,19 @@
+{
+  "name": "wastescraper",
+  "version": "0.0.1",
+  "description": "Scrapes the https://www.recycling.vic.gov.au/can-i-recycle-this website for recycling information",
+  "main": "scraper/dbSync.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopugit/wasteScraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopugit/wasteScraper/issues"
+  },
+  "homepage": "https://github.com/lopugit/wasteScraper#readme"
+}
