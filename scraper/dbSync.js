@@ -8,11 +8,12 @@ process.on('uncaughtException', function (err) {
 
 console.log("Started wasteScraper dbSync!")
 
-let json = require('../data.json')
 let fs = require('fs')
 let config = require('config')
+
 // Parse scraped data for better databasing
 
+let json = require('../data.json')
 let parsed = []
 
 Object.keys(json).forEach((categoryName)=>{
@@ -39,7 +40,9 @@ Object.keys(json).forEach((categoryName)=>{
 	})
 })
 
-fs.writeFileSync(__dirname+'/../dbData.json', JSON.stringify(parsed))
+let string = JSON.stringify(parsed, null, "\t")
+
+fs.writeFileSync(__dirname+'/../dbData.json', string)
 
 // create mongoDB connection
 let MongoClient = require('mongodb').MongoClient;
@@ -74,7 +77,7 @@ client.connect(async err => {
 	
   // close the connection
   client.close();
-	
+
 });
 
 
