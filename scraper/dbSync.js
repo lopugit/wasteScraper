@@ -1,3 +1,10 @@
+/*
+- Waste Managers - 
+Nikolaj Frey, Mathen Jose, Alvin Zhao
+FIT3162
+This program manipulates our scraped data into a suitable format
+and syncs it with a MongoDB.
+*/
 
 console.log("Starting wasteScraper dbSync...")
 

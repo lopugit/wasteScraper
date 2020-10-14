@@ -1,4 +1,10 @@
-# https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d
+"""
+- Waste Managers - 
+Nikolaj Frey, Mathen Jose, Alvin Zhao
+FIT3162
+Reference: https://towardsdatascience.com/image-scraping-with-python-a96feda8af2d
+This program scrapes a set number of images of some predefined queries off google images 
+"""
 
 import selenium
 from selenium import webdriver
@@ -12,8 +18,15 @@ import hashlib
 # Path to ChromeDriver
 DRIVER_PATH = 'D:\Projects\wasteManagers\wasteScraper\images\chromedriver'
 
-
 def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_between_interactions:int=1):
+    """Loads image search query, fetching a set number of thumbnails.
+
+    Args:
+        query (str): the search term
+        max_links_to_fetch (int): number of thumbnails to save
+        wd (webdriver): webdriver
+        sleep_between_interactions (int, optional): delay between images, Defaults to 1.
+    """
     def scroll_to_end(wd):
         wd.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(sleep_between_interactions)    
@@ -69,6 +82,13 @@ def fetch_image_urls(query:str, max_links_to_fetch:int, wd:webdriver, sleep_betw
     return image_urls
 
 def persist_image(folder_path:str,file_name:str,url:str):
+    """Downloads image content to folder
+
+    Args:
+        folder_path (str): path to save location
+        file_name (str): name of image to save
+        url (str): url to image to save
+    """
     try:
         image_content = requests.get(url).content
 
@@ -97,7 +117,7 @@ if __name__ == '__main__':
         wd.get('https://google.com')
         search_box = wd.find_element_by_css_selector('input.gLFyf')
         search_box.send_keys(query)
-        links = fetch_image_urls(query,10,wd)
+        links = fetch_image_urls(query,10,wd) #fetch images and save them
         images_path = os.getcwd() #image save path
         for i in links:
             persist_image(images_path,query,i)
